@@ -18,10 +18,8 @@ Power Query
 DAX
 Excel / CSV Dataset
 📷 Dashboard Preview
+(https://github.com/manishsahu0896/Car-Sales-Dashboard/blob/main/dasnbord.png?raw=true)
 
-Upload your screenshot as dashboard.png in the repository and use:
-
-![Dashboard](dashboard.png)
 📂 Project Structure
 Car-Sales-Dashboard/
 │── Car Sales Dashboard.pbix
